@@ -1,0 +1,68 @@
+#container1{
+    background-color: black;
+    font-size:14px;
+    width: 45%;
+    height: 100%;
+    padding-left: 15px;
+    color: white;
+    font-family: 'League Spartan', sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+#logo-icon{
+    margin-top: 25px;
+    margin-bottom:50px;  
+}
+
+#title{
+    font-size:24px;
+    color: #08C05E;
+    margin-bottom: 14px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#subtitle{
+    margin-bottom: 14px;
+}
+
+#button-input{
+    position: absolute;
+    top: 338px;
+    left: 675px;
+    z-index:2;
+}
+
+
+#camp3-rodape{
+    margin-top: 14px;
+    color: purple;
+}
+
+#icon-rodape{
+    position: absolute;
+    top: 398px;
+    left: 150px;
+    z-index:2;
+}
+
+#image-background{   
+    position: absolute;
+    bottom: 0vw;
+    right: 0vw;
+    z-index: 1;
+}
+/*
+position: absolute;
+z-index:1;
+}
+#input {
+    width: ;
+}
+
+#camp-email {
+    width: ;
+}
+
