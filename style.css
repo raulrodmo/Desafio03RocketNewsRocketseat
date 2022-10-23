@@ -12,7 +12,7 @@
     z-index: 2;
 }
 
-#logo-icon{
+#logo_icon{
     margin-top: 25px;
     margin-bottom:50px;  
 }
@@ -28,7 +28,7 @@
     margin-bottom: 14px;
 }
 
-#button-input{
+#button_input{
     position: absolute;
     top: 338px;
     left: 675px;
@@ -36,19 +36,19 @@
 }
 
 
-#camp3-rodape{
+#camp3_rodape{
     margin-top: 14px;
     color: purple;
 }
 
-#icon-rodape{
+#icon_rodape{
     position: absolute;
     top: 398px;
     left: 150px;
     z-index:2;
 }
 
-#image-background{   
+#image_background{   
     position: absolute;
     bottom: 0vw;
     right: 0vw;
